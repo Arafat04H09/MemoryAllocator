@@ -44,3 +44,6 @@ Adds a block into the quick list for reuse.
 - **MAGIC Number:** Used to validate memory integrity during operations.
 - **Alignment:** Ensures all allocated blocks are aligned to 16 bytes.
 - **Segregated Lists:** Organizes free blocks by size for fast allocation.
+![Memory Allocator](https://github.com/Arafat04H09/MemoryAllocator/blob/main/memory1.png?raw=true)
+![Memory Allocator2](https://github.com/Arafat04H09/MemoryAllocator/blob/main/memory2.png?raw=true)
+![Memory Allocator3](https://github.com/Arafat04H09/MemoryAllocator/blob/main/memory3.png?raw=true)
